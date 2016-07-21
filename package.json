@@ -33,6 +33,7 @@
     "babel-core": "=6.9.0",
     "babel-eslint": "=6.0.4",
     "babel-preset-airbnb": "=2.0.0",
+    "babel-preset-fbjs": "^2.0.0",
     "babel-preset-react-native": "=1.8.0",
     "chai": "=3.5.0",
     "eslint": "2.10.2",
@@ -42,8 +43,12 @@
     "eslint-plugin-react": "=5.1.1",
     "eslint-plugin-react-native": "=1.0.2",
     "mocha": "=2.5.3",
+    "mockery": "^1.7.0",
+    "node-haste": "^2.12.0",
+    "node-hook": "^0.4.0",
     "react": "=15.1.0",
-    "react-native": "^0.27.0"
+    "react-native": "^0.27.0",
+    "require-hook": "^0.1.2"
   },
   "dependencies": {
     "cubic-bezier": "=0.1.2",
